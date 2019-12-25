@@ -14,7 +14,7 @@
 </p>
 
 
-**Swift Extensions** is the list of most often extensions I use. A list I'm happy to start new project with. Please, check [Medium](https://medium.com/@mikhailpanfilov) post with full description👏
+**Swift Extensions** is the list of most often extensions I use. The list I'm happy to start a new project with. Please, check [Medium](https://medium.com/@mikhailpanfilov) post with full description 👏
 
 
 ### 📝 Contents
