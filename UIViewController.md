@@ -18,13 +18,6 @@ private class func instantiateControllerInStoryboard<T: UIViewController>(_ stor
     class func from(storyboard: Storyboard) -> Self {
         return controllerInStoryboard(UIStoryboard(name: storyboard.rawValue, bundle: nil), identifier: identifier)
     }
-    
-    func keyboardWillShowNotification(completion: ((CGRect?) -> Void)? = nil) {
-        NotificationCenter.default.addObserver(forName: UIResponder.keyboardWillShowNotification, object: nil, queue: nil, using: { (notification) -> Void in
-            let keyboardFrame = (notification.userInfo![UIResponder.keyboardFrameEndUserInfoKey] as! NSValue).cgRectValue
-            completion?(keyboardFrame)
-        })
-    }
 ```
 
 ## [#`Hide keyboard`]()
