@@ -18,6 +18,7 @@ private class func instantiateControllerInStoryboard<T: UIViewController>(_ stor
     class func from(storyboard: Storyboard) -> Self {
         return controllerInStoryboard(UIStoryboard(name: storyboard.rawValue, bundle: nil), identifier: identifier)
     }
+}
 ```
 
 ## [#`Hide keyboard`]()
