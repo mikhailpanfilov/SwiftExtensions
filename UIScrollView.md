@@ -1,4 +1,4 @@
-[#`Scroll while dragging on button`](https://github.com/mikhailpanfilov/SwiftExtensions/blob/master/UISctollView.md#scroll-while-dragging-on-button)<br />
+[#`Scroll while dragging on button`](https://github.com/mikhailpanfilov/SwiftExtensions/blob/master/UIScrollView.md#scroll-while-dragging-on-button)<br />
 
 
 ## [#`Scroll while dragging on button`]()
