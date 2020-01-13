@@ -27,6 +27,7 @@
 - [`UILabel`](https://github.com/mikhailpanfilov/SwiftExtensions/blob/master/UILabel.md)<br/>
 - [`UIButton`](https://github.com/mikhailpanfilov/SwiftExtensions/blob/master/UIButton.md)<br/>
 - [`UIView`](https://github.com/mikhailpanfilov/SwiftExtensions/blob/master/UIView.md)<br/>
+- [`UIScrollView`](https://github.com/mikhailpanfilov/SwiftExtensions/blob/master/UIScrollView.md)<br/>
 
 
 ### 🚀 Contributing
